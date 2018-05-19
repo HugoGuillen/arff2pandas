@@ -2,11 +2,6 @@
 ---
 Load an ARFF file as a pandas DataFrame.
 
-## Instalation
-```
-pip install arff2pandas
-```
-
 ## Features
 - Reads an ARFF file and loads it in-memory as a pandas `DataFrame`.
 - Returns ARFF metadata as `DataFrame` or Python `dict`.
@@ -28,4 +23,4 @@ For more examples, see the [Tutorial](tutorial.ipynb)
 
 ---
 
-Created by Hugo Guillen, 2017.
+Created by Hugo Guillen, 2018.
